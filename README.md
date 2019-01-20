@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/2470363/50845298-cd1aeb80-136c-11e9-82b8-9661f28dfa66.png" alt="logo" />
+  <img src="https://avatars1.githubusercontent.com/u/24212226" alt="logo" />
 </p>
 
 # manifest
